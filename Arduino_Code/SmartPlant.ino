@@ -10,13 +10,13 @@
 //#define FIREBASE_AUTH "qo3vPAw8zplyRczglUevcno6Iepn4qLFWEFCQQaM"                                                                  // the secret key generated from firebase
 
 
-#define API_KEY "AIzaSyB5kvQ4ZbdC6mV8amtzgI3fzmBiZMlrgQg"
-#define WIFI_SSID "JioFiberdesh"                                                                                                              // input your home or public wifi name 
-#define WIFI_PASSWORD "kshitijaom01"                                                                                        //password of wifi ssid
+#define API_KEY "*************************************"
+#define WIFI_SSID "****************"                                                                                                              // input your home or public wifi name 
+#define WIFI_PASSWORD "***************************** "                                                                                        //password of wifi ssid
 #define DATABASE_URL "https://smart-plant-monitoring-s-94e5c-default-rtdb.asia-southeast1.firebasedatabase.app/" 
 
-#define USER_EMAIL "omd142002@gmail.com"
-#define USER_PASSWORD "12341234"
+#define USER_EMAIL "*****************"
+#define USER_PASSWORD "******************"
 
 FirebaseData fbdo;
 FirebaseAuth auth;
